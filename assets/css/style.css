@@ -25,3 +25,31 @@ body {
     padding: 20px 0;
     text-align: center;
 }
+
+#quienessomos .contenido{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    justify-content: center;
+    gap: 15px;
+}
+
+#quienessomos p{
+    color: black;
+}
+
+#columna {
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#quienessomos i{
+    background-color: aqua;
+    font-size: 30px;
+    color: white;
+    display: block;
+    margin: 0 auto;
+}
